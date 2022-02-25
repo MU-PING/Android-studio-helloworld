@@ -1,4 +1,4 @@
-# android-studio-helloworld
+# Android-studio-helloworld
 ## 程式簡介
 ### 簡述
 > 安裝 Android Studio 並建立可互相切換與傳輸資料的簡易兩頁式 APP
